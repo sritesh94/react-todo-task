@@ -1,0 +1,37 @@
+body {
+    background-color: #444;
+}
+
+.todoContainer {
+    background: #fff;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #c73030;
+    border: 0;
+    padding: 10px;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.todoListContainer {
+    margin-top: 20px;
+}
